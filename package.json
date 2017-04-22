@@ -1,6 +1,6 @@
 {
   "name": "express-form-handler-mongoose",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An express-form-handler model strategy for mongoose",
   "main": "./lib",
   "scripts": {
@@ -28,7 +28,6 @@
     "chai": "^3.5.0",
     "mocha": "^3.2.0",
     "sinon": "^2.1.0",
-    "sinon-test": "^1.0.1",
     "standard": "^10.0.2"
   },
   "standard": {
@@ -37,7 +36,6 @@
     ]
   },
   "dependencies": {
-    "express-form-handler-strategy": "^0.1.0",
-    "sinon": "^2.1.0"
+    "express-form-handler-strategy": "^0.1.0"
   }
 }

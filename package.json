@@ -1,6 +1,6 @@
 {
   "name": "express-form-handler-mongoose",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "An express-form-handler model strategy for mongoose",
   "main": "./lib",
   "scripts": {
